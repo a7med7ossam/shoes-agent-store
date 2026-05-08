@@ -1,0 +1,371 @@
+brand,model,size,price,stock
+Nike,Air Max,6.0,220.0,4
+Nike,Air Max,6.5,220.0,7
+Nike,Air Max,7.5,220.0,0
+Nike,Air Max,8.0,220.0,3
+Nike,Air Max,8.5,220.0,13
+Nike,Air Max,9.5,220.0,2
+Nike,Air Max,10.0,220.0,2
+Nike,Air Max,10.5,220.0,4
+Nike,Air Max,11.0,220.0,3
+Nike,Air Max,13.0,220.0,5
+Nike,Air Force 1,6.0,60.0,3
+Nike,Air Force 1,7.0,60.0,16
+Nike,Air Force 1,8.0,60.0,0
+Nike,Air Force 1,9.0,60.0,2
+Nike,Air Force 1,9.5,60.0,4
+Nike,Air Force 1,10.0,60.0,4
+Nike,Air Force 1,10.5,60.0,2
+Nike,Air Force 1,11.0,60.0,1
+Nike,Air Force 1,11.5,60.0,1
+Nike,Air Force 1,12.0,60.0,23
+Nike,Air Force 1,12.5,60.0,10
+Nike,Pegasus,6.0,150.0,0
+Nike,Pegasus,7.0,150.0,8
+Nike,Pegasus,8.5,150.0,22
+Nike,Pegasus,9.5,150.0,2
+Nike,Pegasus,11.0,150.0,0
+Nike,Pegasus,11.5,150.0,2
+Nike,Pegasus,12.0,150.0,13
+Nike,Pegasus,12.5,150.0,0
+Nike,React,6.5,100.0,2
+Nike,React,7.0,100.0,0
+Nike,React,7.5,100.0,4
+Nike,React,8.0,100.0,4
+Nike,React,8.5,100.0,5
+Nike,React,9.0,100.0,1
+Nike,React,9.5,100.0,5
+Nike,React,10.0,100.0,4
+Nike,React,10.5,100.0,2
+Nike,React,11.0,100.0,5
+Nike,React,12.0,100.0,20
+Nike,React,12.5,100.0,0
+Nike,Dunk,6.0,200.0,1
+Nike,Dunk,6.5,200.0,1
+Nike,Dunk,7.0,200.0,25
+Nike,Dunk,7.5,200.0,0
+Nike,Dunk,8.5,200.0,1
+Nike,Dunk,9.0,200.0,3
+Nike,Dunk,9.5,200.0,2
+Nike,Dunk,10.0,200.0,0
+Nike,Dunk,10.5,200.0,5
+Nike,Dunk,13.0,200.0,19
+Adidas,Ultraboost,6.0,220.0,5
+Adidas,Ultraboost,6.5,220.0,2
+Adidas,Ultraboost,7.0,220.0,0
+Adidas,Ultraboost,7.5,220.0,5
+Adidas,Ultraboost,8.0,220.0,1
+Adidas,Ultraboost,8.5,220.0,1
+Adidas,Ultraboost,9.0,220.0,5
+Adidas,Ultraboost,9.5,220.0,0
+Adidas,Ultraboost,10.0,220.0,11
+Adidas,Ultraboost,11.0,220.0,20
+Adidas,Ultraboost,11.5,220.0,0
+Adidas,Ultraboost,12.0,220.0,3
+Adidas,Ultraboost,12.5,220.0,1
+Adidas,Ultraboost,13.0,220.0,0
+Adidas,Stan Smith,6.0,220.0,15
+Adidas,Stan Smith,6.5,220.0,8
+Adidas,Stan Smith,7.0,220.0,1
+Adidas,Stan Smith,7.5,220.0,8
+Adidas,Stan Smith,8.0,220.0,3
+Adidas,Stan Smith,8.5,220.0,15
+Adidas,Stan Smith,9.0,220.0,8
+Adidas,Stan Smith,9.5,220.0,0
+Adidas,Stan Smith,10.0,220.0,15
+Adidas,Stan Smith,10.5,220.0,15
+Adidas,Stan Smith,12.0,220.0,6
+Adidas,Stan Smith,12.5,220.0,0
+Adidas,Stan Smith,13.0,220.0,1
+Adidas,Superstar,6.5,60.0,0
+Adidas,Superstar,7.0,60.0,4
+Adidas,Superstar,7.5,60.0,0
+Adidas,Superstar,8.0,60.0,23
+Adidas,Superstar,8.5,60.0,17
+Adidas,Superstar,9.0,60.0,3
+Adidas,Superstar,9.5,60.0,3
+Adidas,Superstar,10.0,60.0,3
+Adidas,Superstar,11.0,60.0,4
+Adidas,Superstar,11.5,60.0,3
+Adidas,Superstar,12.0,60.0,4
+Adidas,Superstar,12.5,60.0,6
+Adidas,Superstar,13.0,60.0,2
+Adidas,NMD,6.0,80.0,23
+Adidas,NMD,6.5,80.0,3
+Adidas,NMD,7.0,80.0,5
+Adidas,NMD,7.5,80.0,15
+Adidas,NMD,8.0,80.0,7
+Adidas,NMD,8.5,80.0,13
+Adidas,NMD,9.5,80.0,7
+Adidas,NMD,10.0,80.0,16
+Adidas,NMD,10.5,80.0,13
+Adidas,NMD,12.0,80.0,4
+Adidas,NMD,12.5,80.0,1
+Adidas,NMD,13.0,80.0,18
+Adidas,Gazelle,6.0,200.0,4
+Adidas,Gazelle,6.5,200.0,0
+Adidas,Gazelle,7.0,200.0,18
+Adidas,Gazelle,7.5,200.0,16
+Adidas,Gazelle,8.5,200.0,14
+Adidas,Gazelle,9.0,200.0,0
+Adidas,Gazelle,9.5,200.0,20
+Adidas,Gazelle,10.0,200.0,0
+Adidas,Gazelle,10.5,200.0,5
+Adidas,Gazelle,12.0,200.0,4
+Adidas,Gazelle,12.5,200.0,5
+Puma,Suede,6.0,150.0,0
+Puma,Suede,6.5,150.0,4
+Puma,Suede,7.5,150.0,4
+Puma,Suede,9.0,150.0,4
+Puma,Suede,9.5,150.0,4
+Puma,Suede,10.0,150.0,13
+Puma,Suede,10.5,150.0,14
+Puma,Suede,11.0,150.0,18
+Puma,Suede,11.5,150.0,2
+Puma,Suede,12.0,150.0,13
+Puma,Suede,12.5,150.0,15
+Puma,Suede,13.0,150.0,6
+Puma,RS-X,6.0,80.0,0
+Puma,RS-X,6.5,80.0,0
+Puma,RS-X,7.0,80.0,1
+Puma,RS-X,7.5,80.0,4
+Puma,RS-X,8.0,80.0,25
+Puma,RS-X,8.5,80.0,4
+Puma,RS-X,9.0,80.0,16
+Puma,RS-X,9.5,80.0,22
+Puma,RS-X,10.0,80.0,6
+Puma,RS-X,10.5,80.0,5
+Puma,RS-X,11.0,80.0,4
+Puma,RS-X,11.5,80.0,2
+Puma,RS-X,12.0,80.0,0
+Puma,RS-X,13.0,80.0,2
+Puma,Cali,7.0,120.0,0
+Puma,Cali,7.5,120.0,0
+Puma,Cali,8.5,120.0,2
+Puma,Cali,9.0,120.0,2
+Puma,Cali,9.5,120.0,5
+Puma,Cali,10.0,120.0,12
+Puma,Cali,10.5,120.0,0
+Puma,Cali,11.0,120.0,5
+Puma,Cali,11.5,120.0,17
+Puma,Cali,12.0,120.0,0
+Puma,Cali,13.0,120.0,3
+Puma,Future Rider,6.0,180.0,5
+Puma,Future Rider,6.5,180.0,17
+Puma,Future Rider,7.5,180.0,21
+Puma,Future Rider,8.5,180.0,19
+Puma,Future Rider,9.0,180.0,3
+Puma,Future Rider,9.5,180.0,11
+Puma,Future Rider,10.0,180.0,4
+Puma,Future Rider,10.5,180.0,2
+Puma,Future Rider,11.0,180.0,5
+Puma,Future Rider,11.5,180.0,4
+Puma,Future Rider,12.0,180.0,2
+Puma,Future Rider,12.5,180.0,20
+Puma,Future Rider,13.0,180.0,17
+Reebok,Classic Leather,6.0,120.0,4
+Reebok,Classic Leather,6.5,120.0,1
+Reebok,Classic Leather,7.0,120.0,1
+Reebok,Classic Leather,7.5,120.0,25
+Reebok,Classic Leather,8.0,120.0,0
+Reebok,Classic Leather,8.5,120.0,2
+Reebok,Classic Leather,9.0,120.0,2
+Reebok,Classic Leather,9.5,120.0,4
+Reebok,Classic Leather,10.0,120.0,2
+Reebok,Classic Leather,10.5,120.0,9
+Reebok,Classic Leather,11.0,120.0,3
+Reebok,Classic Leather,11.5,120.0,5
+Reebok,Classic Leather,12.0,120.0,5
+Reebok,Classic Leather,12.5,120.0,1
+Reebok,Classic Leather,13.0,120.0,0
+Reebok,Club C,6.5,220.0,1
+Reebok,Club C,7.0,220.0,3
+Reebok,Club C,8.0,220.0,3
+Reebok,Club C,9.0,220.0,10
+Reebok,Club C,10.5,220.0,5
+Reebok,Club C,12.0,220.0,23
+Reebok,Club C,13.0,220.0,0
+Reebok,Nano,6.0,60.0,2
+Reebok,Nano,7.0,60.0,2
+Reebok,Nano,7.5,60.0,8
+Reebok,Nano,8.0,60.0,15
+Reebok,Nano,8.5,60.0,3
+Reebok,Nano,9.5,60.0,5
+Reebok,Nano,10.5,60.0,4
+Reebok,Nano,11.0,60.0,19
+Reebok,Nano,11.5,60.0,25
+Reebok,Nano,12.0,60.0,2
+Reebok,Nano,12.5,60.0,10
+Reebok,Nano,13.0,60.0,3
+Reebok,Pump,7.0,180.0,22
+Reebok,Pump,7.5,180.0,1
+Reebok,Pump,9.0,180.0,5
+Reebok,Pump,9.5,180.0,0
+Reebok,Pump,10.5,180.0,0
+Reebok,Pump,11.0,180.0,0
+Reebok,Pump,11.5,180.0,21
+Reebok,Pump,12.5,180.0,4
+New Balance,990,6.0,220.0,3
+New Balance,990,7.0,220.0,2
+New Balance,990,8.5,220.0,20
+New Balance,990,9.0,220.0,5
+New Balance,990,9.5,220.0,0
+New Balance,990,10.0,220.0,3
+New Balance,990,10.5,220.0,13
+New Balance,990,11.0,220.0,4
+New Balance,990,12.5,220.0,4
+New Balance,990,13.0,220.0,11
+New Balance,574,6.0,180.0,21
+New Balance,574,6.5,180.0,11
+New Balance,574,7.0,180.0,17
+New Balance,574,8.0,180.0,0
+New Balance,574,8.5,180.0,1
+New Balance,574,9.0,180.0,3
+New Balance,574,9.5,180.0,25
+New Balance,574,10.0,180.0,3
+New Balance,574,10.5,180.0,20
+New Balance,574,11.0,180.0,0
+New Balance,574,11.5,180.0,2
+New Balance,574,12.5,180.0,4
+New Balance,574,13.0,180.0,3
+New Balance,327,6.0,180.0,11
+New Balance,327,6.5,180.0,2
+New Balance,327,7.0,180.0,1
+New Balance,327,7.5,180.0,5
+New Balance,327,8.0,180.0,0
+New Balance,327,8.5,180.0,6
+New Balance,327,9.0,180.0,9
+New Balance,327,9.5,180.0,6
+New Balance,327,10.0,180.0,20
+New Balance,327,10.5,180.0,0
+New Balance,327,11.5,180.0,0
+New Balance,327,12.0,180.0,1
+New Balance,327,12.5,180.0,0
+New Balance,327,13.0,180.0,2
+New Balance,2002R,6.0,150.0,24
+New Balance,2002R,6.5,150.0,4
+New Balance,2002R,7.5,150.0,11
+New Balance,2002R,8.0,150.0,3
+New Balance,2002R,8.5,150.0,0
+New Balance,2002R,9.0,150.0,4
+New Balance,2002R,9.5,150.0,14
+New Balance,2002R,10.0,150.0,22
+New Balance,2002R,10.5,150.0,7
+New Balance,2002R,11.5,150.0,1
+New Balance,2002R,12.0,150.0,8
+New Balance,2002R,12.5,150.0,0
+New Balance,2002R,13.0,150.0,0
+New Balance,1080,6.0,150.0,2
+New Balance,1080,6.5,150.0,0
+New Balance,1080,7.5,150.0,10
+New Balance,1080,8.0,150.0,5
+New Balance,1080,8.5,150.0,4
+New Balance,1080,9.5,150.0,4
+New Balance,1080,10.0,150.0,2
+New Balance,1080,10.5,150.0,1
+New Balance,1080,11.0,150.0,2
+New Balance,1080,11.5,150.0,1
+New Balance,1080,12.0,150.0,0
+New Balance,1080,12.5,150.0,2
+New Balance,1080,13.0,150.0,5
+Asics,Gel-Kayano,6.0,150.0,4
+Asics,Gel-Kayano,6.5,150.0,1
+Asics,Gel-Kayano,7.0,150.0,0
+Asics,Gel-Kayano,8.0,150.0,5
+Asics,Gel-Kayano,8.5,150.0,0
+Asics,Gel-Kayano,9.0,150.0,5
+Asics,Gel-Kayano,9.5,150.0,21
+Asics,Gel-Kayano,10.0,150.0,2
+Asics,Gel-Kayano,10.5,150.0,0
+Asics,Gel-Kayano,11.0,150.0,3
+Asics,Gel-Kayano,12.0,150.0,0
+Asics,Gel-Kayano,12.5,150.0,1
+Asics,Gel-Kayano,13.0,150.0,5
+Asics,Gel-Nimbus,6.0,120.0,5
+Asics,Gel-Nimbus,6.5,120.0,5
+Asics,Gel-Nimbus,7.0,120.0,0
+Asics,Gel-Nimbus,8.0,120.0,3
+Asics,Gel-Nimbus,8.5,120.0,19
+Asics,Gel-Nimbus,9.0,120.0,0
+Asics,Gel-Nimbus,9.5,120.0,2
+Asics,Gel-Nimbus,10.0,120.0,2
+Asics,Gel-Nimbus,11.0,120.0,15
+Asics,Gel-Nimbus,11.5,120.0,23
+Asics,Gel-Nimbus,12.0,120.0,3
+Asics,Novablast,7.0,60.0,10
+Asics,Novablast,7.5,60.0,4
+Asics,Novablast,8.0,60.0,5
+Asics,Novablast,8.5,60.0,1
+Asics,Novablast,9.0,60.0,5
+Asics,Novablast,9.5,60.0,1
+Asics,Novablast,10.0,60.0,4
+Asics,Novablast,10.5,60.0,2
+Asics,Novablast,11.0,60.0,5
+Asics,Novablast,12.0,60.0,0
+Asics,Novablast,12.5,60.0,3
+Asics,Novablast,13.0,60.0,1
+Vans,Old Skool,6.0,150.0,2
+Vans,Old Skool,6.5,150.0,0
+Vans,Old Skool,7.0,150.0,18
+Vans,Old Skool,7.5,150.0,1
+Vans,Old Skool,8.0,150.0,0
+Vans,Old Skool,8.5,150.0,1
+Vans,Old Skool,9.5,150.0,25
+Vans,Old Skool,10.0,150.0,4
+Vans,Old Skool,11.0,150.0,8
+Vans,Old Skool,11.5,150.0,2
+Vans,Old Skool,12.0,150.0,1
+Vans,Old Skool,12.5,150.0,6
+Vans,Old Skool,13.0,150.0,0
+Vans,Authentic,6.0,120.0,4
+Vans,Authentic,7.0,120.0,3
+Vans,Authentic,7.5,120.0,3
+Vans,Authentic,8.0,120.0,0
+Vans,Authentic,8.5,120.0,10
+Vans,Authentic,9.0,120.0,9
+Vans,Authentic,9.5,120.0,0
+Vans,Authentic,10.0,120.0,4
+Vans,Authentic,10.5,120.0,7
+Vans,Authentic,11.0,120.0,0
+Vans,Authentic,11.5,120.0,0
+Vans,Authentic,12.0,120.0,22
+Vans,Authentic,12.5,120.0,0
+Vans,Authentic,13.0,120.0,0
+Vans,Sk8-Hi,6.0,150.0,1
+Vans,Sk8-Hi,6.5,150.0,5
+Vans,Sk8-Hi,7.0,150.0,7
+Vans,Sk8-Hi,7.5,150.0,7
+Vans,Sk8-Hi,8.0,150.0,5
+Vans,Sk8-Hi,9.0,150.0,10
+Vans,Sk8-Hi,9.5,150.0,0
+Vans,Sk8-Hi,10.0,150.0,23
+Vans,Sk8-Hi,10.5,150.0,5
+Vans,Sk8-Hi,11.0,150.0,17
+Vans,Sk8-Hi,11.5,150.0,0
+Vans,Sk8-Hi,12.0,150.0,11
+Vans,Sk8-Hi,12.5,150.0,0
+Vans,Sk8-Hi,13.0,150.0,2
+Converse,Chuck Taylor,6.0,220.0,0
+Converse,Chuck Taylor,7.0,220.0,11
+Converse,Chuck Taylor,7.5,220.0,4
+Converse,Chuck Taylor,8.0,220.0,0
+Converse,Chuck Taylor,8.5,220.0,25
+Converse,Chuck Taylor,9.0,220.0,3
+Converse,Chuck Taylor,9.5,220.0,9
+Converse,Chuck Taylor,10.0,220.0,23
+Converse,Chuck Taylor,10.5,220.0,2
+Converse,Chuck Taylor,11.0,220.0,25
+Converse,Chuck Taylor,11.5,220.0,25
+Converse,Chuck Taylor,12.0,220.0,16
+Converse,One Star,6.0,220.0,5
+Converse,One Star,6.5,220.0,14
+Converse,One Star,7.0,220.0,5
+Converse,One Star,8.0,220.0,5
+Converse,One Star,9.0,220.0,2
+Converse,One Star,9.5,220.0,0
+Converse,One Star,10.5,220.0,0
+Converse,One Star,11.0,220.0,0
+Converse,One Star,11.5,220.0,0
+Converse,One Star,12.0,220.0,1
+Converse,One Star,12.5,220.0,22
+Converse,One Star,13.0,220.0,15

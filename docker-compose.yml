@@ -1,0 +1,47 @@
+# docker-compose.yml
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    ports:
+      - "6333:6333"
+    volumes:
+      - ./qdrant_data:/qdrant/storage
+
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password123
+      POSTGRES_DB: shoestore
+    ports:
+      - "5433:5432" # Keeps 5433 exposed so you can still use DBeaver locally
+    volumes:
+      - ./postgres_data:/var/lib/postgresql/data
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    ports:
+      - "8000:8000"
+    environment:
+      # Connects using the Docker internal network port (5432)
+      - DATABASE_URL=postgresql://admin:password123@postgres:5432/shoestore
+      # host.docker.internal tells Docker to talk to Ollama on your physical laptop
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+    depends_on:
+      - postgres
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    ports:
+      - "8501:8501"
+    environment:
+      # Tells Streamlit to talk to the backend container, not localhost
+      - API_URL=http://backend:8000/chat
+    depends_on:
+      - backend

@@ -1,6 +1,3 @@
-#include <iostream> 
-#include <vector>
-
 # SoleAgent Setup Guide
 
 ## Step 1: Install the Prerequisites
@@ -13,10 +10,10 @@ On the new laptop, download and install:
 ## Step 2: Start Ollama
 Open a terminal on the new laptop and download the "brain" for your agent:
 
-` ` `bash
+bash
 ollama pull llama3.1:8b
 ollama serve
-` ` `
+
 
 ## Step 3: Download Your Code
 Open a new terminal window and download your project from GitHub:

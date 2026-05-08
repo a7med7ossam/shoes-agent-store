@@ -19,17 +19,17 @@ ollama serve
 ## Step 3: Download Your Code
 Open a new terminal window and download your project from GitHub:
 
-` ` `bash
+```bash
 git clone https://github.com/a7med7ossam/shoes-agent-store.git
 cd shoes-agent-store
-` ` `
+```
 
 ## Step 4: The Magic Command
 Now, run the single command that reads your `docker-compose.yml` and builds everything from scratch:
 
-` ` `bash
+```bash
 docker compose up --build -d
-` ` `
+```
 
 ### What happens next is entirely automated by Docker:
 

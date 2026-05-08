@@ -10,16 +10,17 @@ On the new laptop, download and install:
 ## Step 2: Start Ollama
 Open a terminal on the new laptop and download the "brain" for your agent:
 
-bash
+```bash
 ollama pull llama3.1:8b
 ollama serve
+```
 
 
 ## Step 3: Download Your Code
 Open a new terminal window and download your project from GitHub:
 
 ` ` `bash
-git clone <https://github.com/a7med7ossam/shoes-agent-store.git>
+git clone https://github.com/a7med7ossam/shoes-agent-store.git
 cd shoes-agent-store
 ` ` `
 

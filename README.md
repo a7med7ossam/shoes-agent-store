@@ -1,3 +1,6 @@
+#include <iostream> 
+#include <vector>
+
 # SoleAgent Setup Guide
 
 ## Step 1: Install the Prerequisites

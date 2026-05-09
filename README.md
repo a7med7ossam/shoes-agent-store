@@ -1,11 +1,18 @@
 # SoleAgent Setup Guide
 
-## Step 1: Install the Prerequisites
+## Step 0: Install the Prerequisites
 On the new laptop, download and install:
 
 * **Git:** To download your code from GitHub.
 * **Docker Desktop:** To run your containers.
 * **Ollama:** To run your local LLM.
+
+## Step 1: Install Ollama
+On the new laptop, Insert the USB Flash Drive:
+
+1. Copy `Ollama_Local_Models` folder into a drive that has 5GB free.
+2. Copy `OllamaSetup.exe` into your disk and install it in any directory (C: D: E:).
+3. While opening `OllamaSetup.exe` configure model location under settings, click browse and choose the path to your `Ollama_Local_Models` folder.
 
 ## Step 2: Start Ollama
 Open a terminal on the new laptop and download the "brain" for your agent:

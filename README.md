@@ -44,7 +44,8 @@ Open a terminal on the new laptop and download the "brain" for your agent:
 
 ```bash
 ollama pull llama3.1:8b
-#ollama serve #because it's always running 
+#ollama serve
+#because it's always running 
 ```
 
 

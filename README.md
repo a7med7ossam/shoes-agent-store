@@ -57,7 +57,8 @@ cd shoes-agent-store
 ```
 
 ## Step 4: The Magic Command
-Now, run the single command that reads your `docker-compose.yml` and builds everything from scratch:
+Find Docker app icon and run it then
+Run the single command that reads your `docker-compose.yml` and builds everything from scratch:
 
 ```bash
 docker compose up --build -d

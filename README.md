@@ -1,13 +1,38 @@
 # SoleAgent Setup Guide
 
-## Step 0: Install the Prerequisites
+## Step 1: Install the Prerequisites
 On the new laptop, download and install:
 
 * **Git:** To download your code from GitHub.
 * **Docker Desktop:** To run your containers.
 * **Ollama:** To run your local LLM.
 
-## Step 1: Install Ollama
+Install Docker:
+
+- Git for Windows (Git Bash)
+- Docker Desktop
+- kubectl
+- kind
+
+Quick install with PowerShell (Admin):
+
+```powershell
+winget install --id Git.Git -e
+winget install --id Docker.DockerDesktop -e
+winget install --id Kubernetes.kubectl -e
+winget install --id Kubernetes.kind -e
+```
+
+Verify in Git Bash:
+
+```bash
+git --version
+docker --version
+kubectl version --client
+kind version
+```
+
+Install Ollama:
 On the new laptop, Insert the USB Flash Drive:
 
 1. Copy `Ollama_Local_Models` folder into a drive that has 5GB free.
